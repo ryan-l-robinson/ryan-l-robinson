@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryan-l-robinson
 - 👀 I’m interested in: web technologies, Microsoft 365
-- 🌱 I’m currently learning: DevOps, Drupal, GitLab, WordPress, PHP, CSS, SharePoint, Teams, Power Platform
+- 🌱 I’m currently learning: DevOps, Drupal, GitLab, WordPress, PHP, CSS
 - 📫 How to reach me: https://www.linkedin.com/in/ryanlewisrobinson/
 
 <!---
