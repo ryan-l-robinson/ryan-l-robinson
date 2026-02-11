@@ -1,4 +1,4 @@
-I am in the process of migrating everything here over to [Codeberg](https://codeberg.org/ryanrobinson).
+Note: I am in the process of migrating everything here over to [Codeberg](https://codeberg.org/ryanrobinson). I will keep this account for interacting with the projects of others, but I will not be updating code here going forward.
 
 - 👋 Hi, I’m @ryan-l-robinson
 - 👀 I’m interested in: web technologies, Microsoft 365
